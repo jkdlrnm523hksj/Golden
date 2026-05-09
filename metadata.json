@@ -1,0 +1,12 @@
+{
+  "name": "Lalezar Artisan Kitchen",
+  "description": "A professional, high-end restaurant website for an authentic Turkish dining experience, featuring digital menus, online reservations, and a sophisticated Mediterranean aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Firebase Reservations",
+    "Multi-language Support",
+    "Digital Menu"
+  ]
+}
